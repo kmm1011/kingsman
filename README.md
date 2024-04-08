@@ -1,4 +1,4 @@
-KINGSMAN 
+KINGSMAN: 
 A global men's fashion online apparel store for high-end clothing.
 
 1. This website provides a way for the KIGNSMAN company to access the inventory of the store and update the inventory in a simple concise manner. 
